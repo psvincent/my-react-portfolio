@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.14bef76c.css",
+    "main.js": "/my-react-portfolio/static/js/main.2afff2ad.js",
+    "static/media/my-photo.png": "/my-react-portfolio/static/media/my-photo.e845087cd47e7dfe001a.png",
+    "static/media/techub.png": "/my-react-portfolio/static/media/techub.8fc88dd4a971c6027eac.png",
+    "static/media/work-day-scheduler.png": "/my-react-portfolio/static/media/work-day-scheduler.7b89c401ea29539e5d01.png",
+    "static/media/note-taker.png": "/my-react-portfolio/static/media/note-taker.fa61fecdc922ed2ce7aa.png",
+    "static/media/password-generator.png": "/my-react-portfolio/static/media/password-generator.63b01da4b04dce149890.png",
+    "static/media/guess-that-movie2.png": "/my-react-portfolio/static/media/guess-that-movie2.b58cb789ed162067595b.png",
+    "static/media/coding-quiz.png": "/my-react-portfolio/static/media/coding-quiz.045db4b4ea997ab94617.png",
+    "index.html": "/my-react-portfolio/index.html",
+    "main.14bef76c.css.map": "/my-react-portfolio/static/css/main.14bef76c.css.map",
+    "main.2afff2ad.js.map": "/my-react-portfolio/static/js/main.2afff2ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14bef76c.css",
+    "static/js/main.2afff2ad.js"
+  ]
+}
