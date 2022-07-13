@@ -5,6 +5,7 @@ import noteTaker from '../assets/note-taker.png';
 import passwordGenerator from '../assets/password-generator.png';
 import techub from '../assets/techub.png';
 import workDayScheduler from '../assets/work-day-scheduler.png';
+import dubCity from '../assets/dub-city.png';
 
 const Portfolio = () => {
   return (
@@ -36,10 +37,10 @@ const Portfolio = () => {
                             Guess That Movie
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://colleenkhm.github.io/guess-that-movie/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live App</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/psvincent/guess-that-movie">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -100,6 +101,21 @@ const Portfolio = () => {
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live App</button>
                             </a>
                             <a href="https://github.com/psvincent/work-day-scheduler">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div style={{ backgroundImage: `url(${dubCity})`}} className='shadow-lg shadow-[#040c20] group container rounded-md flex justify-center items-center mx-auto work-div'>
+                    <div className='text-center opacity-0 group-hover:opacity-100'>
+                        <span className='text-2xl font-bold text-white tracking-wider'>
+                            Dub City
+                        </span>
+                        <div className='pt-8 text-center'>
+                            <a href="https://dub-city-vr-tournaments.herokuapp.com/">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live App</button>
+                            </a>
+                            <a href="https://github.com/psvincent/dubcity-app">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
