@@ -6,6 +6,7 @@ import passwordGenerator from '../assets/password-generator.png';
 import techub from '../assets/techub.png';
 import workDayScheduler from '../assets/work-day-scheduler.png';
 import dubCity from '../assets/dub-city.png';
+import chezzSoftware from '../assets/chezz-logo.png';
 
 const Portfolio = () => {
   return (
@@ -117,6 +118,18 @@ const Portfolio = () => {
                             </a>
                             <a href="https://github.com/psvincent/dubcity-app">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div style={{ backgroundImage: `url(${chezzSoftware})`}} className='shadow-lg shadow-[#040c20] group container rounded-md flex justify-center items-center mx-auto work-div'>
+                    <div className='text-center opacity-0 group-hover:opacity-100'>
+                        <span className='text-2xl font-bold text-white tracking-wider'>
+                            Chezz Software
+                        </span>
+                        <div className='pt-8 text-center'>
+                            <a href="https://www.chezzsoftware.com/">
+                                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live App</button>
                             </a>
                         </div>
                     </div>
