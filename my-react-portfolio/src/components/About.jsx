@@ -15,8 +15,8 @@ const About = () => {
                         <p>Hi, I'm Philip and these are some things about me.</p>
                     </div>
                     <div className='font-semibold'>
-                        <p>I am 19 years old and recently just finished a Full Stack Web Development Boot Camp. I am enrolled in college at John Wood Community College where I am studying computer science.
-                            I plan to get my bachelors in computer science. I am proficent with HTML, CSS, JavaScript, ReactJS, ExpressJS, NodeJS, MongoDB, MYSQL, Git, and I am currently learning AWS.
+                        <p>I am currently enrolled as a junior at the University of Central Florida studying computer science.
+                            I am proficent with HTML, CSS, JavaScript, Java, ReactJS, ExpressJS, NodeJS, MongoDB, MYSQL, and Git.
                         </p>
                     </div>
                 </div>
